@@ -1,4 +1,4 @@
-# 💫 Hey!:
+# 💫 Hey!
 🔭 I’m currently working on- full-stack applications<br>🤝 I’m looking to collaborate on-creative and impactful web projects, especially those with unique UI, smart features, or interactive elements.<br>🌱 I’m currently learning-advanced backend development,sharpening my communication and soft skills<br>💬 Ask me about-React, Node.js, MongoDB,or building structured full-stack apps.<br>⚡ Fun fact- I love solving problems with code
 
 
