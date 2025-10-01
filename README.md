@@ -2,6 +2,28 @@
 🔭 I’m currently working on- full-stack development & applications<br>🤝 I’m looking to collaborate on-creative and impactful web projects, especially those with unique UI or smart features.<br>🌱 I’m currently learning-advanced backend development,sharpening my communication and soft skills<br>💬 Ask me about-React, Node.js, MongoDB,or building structured full-stack apps.<br>⚡ Fun fact- I love solving problems with code                     
 
 
+<svg xmlns="http://www.w3.org/2000/svg" width="110.2" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="a">
+        <rect width="110.2" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#a)">
+        <rect width="79.2" height="20" fill="#555"/>
+        <rect x="79.2" width="31" height="20" fill="#0e75b6"/>
+        <rect width="110.2" height="20" fill="url(#b)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="40.6" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
+        <text x="40.6" y="14">Profile views</text>
+        <text x="93.7" y="15" fill="#010101" fill-opacity=".3">124</text>
+        <text x="93.7" y="14">124</text>
+    </g>
+</svg>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pratik_bavche_patil) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikbavche45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-bavche-b6b696325) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Pratik_Bavche) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@pratikbavchepatil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikbavche2005@gmail.com) 
 
