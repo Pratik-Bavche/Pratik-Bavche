@@ -1,3 +1,20 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pratik%20Bavche&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/Open%20Source-SWOC%20Contributor-orange" />
+  <img src="https://img.shields.io/badge/Based%20In-India-red" />
+</p>
+
+<p align="center">
+  <i>Turning ideas into reality with code 🚀</i>
+</p>
+
+---
+
+
+
 # 💫 Namaste 🙏!
 🔭 I’m currently working on- full-stack development & applications<br>🤝 I’m looking to collaborate on-creative and impactful web projects, especially those with unique UI or smart features.<br>🌱 I’m currently learning-advanced backend development,sharpening my communication and soft skills<br>💬 Ask me about-React, Node.js, MongoDB,or building structured full-stack apps.<br>⚡ Fun fact- I love solving problems with code                     
 
