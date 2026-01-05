@@ -73,11 +73,11 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-Bavche&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-Bavche&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratik-Bavche&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratik-Bavche&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Bavche&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Bavche&layout=compact&theme=dark)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Bavche&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true)
 
