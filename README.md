@@ -72,9 +72,9 @@
 ---
 
 ## 📊 GitHub Activity
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pratik-Bavche&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Pratik-Bavche&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Bavche&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Contributions
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Bavche&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true)
 
 ---
