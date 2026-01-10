@@ -91,6 +91,3 @@
   🌟 <b>Thanks for visiting my profile!</b> 🌟
 </p>
 
-<p align="center">
-  Made with ❤️ by <b>Pratik Bavche</b>
-</p>
