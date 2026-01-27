@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor%20Contributor-orange" />
+  <img src="https://img.shields.io/badge/Open%20Source-%20Contributor-orange" />
   <img src="https://img.shields.io/badge/Based%20In-India-red" />
 </p>
 
