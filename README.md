@@ -74,12 +74,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-Bavche&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-Bavche&theme=tokyonight" />
+  <img width="75%" src="https://nirzak-streak-stats.vercel.app/?user=Pratik-Bavche&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ## 📈 Contributions
