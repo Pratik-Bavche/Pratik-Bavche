@@ -43,9 +43,14 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Profile+Visitors+%F0%9F%91%80;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=👀+Profile+Visitors" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Pratik-Bavche&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </p>
+
 
 
 ---
