@@ -60,23 +60,22 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/pratik-bavche-b6b696325">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://instagram.com/bavche_pratik">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/Pratik_Bavche">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" height="48"/>
 </a>
-
-<a href="https://youtube.com/@pratikbavchepatil">
-<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:pratikbavche2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
