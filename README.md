@@ -22,6 +22,10 @@
 # 👋 About Me
 
 <p align="center">
+⚡ <b>I love transforming ideas into real-world products using technology</b>
+</p>
+
+<p align="center">
 🤝 <b>Open to collaborating on innovative startups and open-source projects</b>
 </p>
 
@@ -30,15 +34,11 @@
 </p>
 
 <p align="center">
-🧠 <b>Currently exploring system design, performance optimization, and scalable architectures</b>
-</p>
-
-<p align="center">
 💬 <b>Ask me about React, Node.js, APIs, databases, and modern web development</b>
 </p>
 
 <p align="center">
-⚡ <b>I love transforming ideas into real-world products using technology</b>
+🧠 <b>Currently exploring system design, performance optimization, and scalable architectures</b>
 </p>
 
 <p align="center">
