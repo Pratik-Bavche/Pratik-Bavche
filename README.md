@@ -21,15 +21,19 @@
 
 # 👋 About Me
 
-🚀 Building **modern full-stack web applications and scalable backend systems**
+<p align="center">
 
-🤝 Excited to collaborate on **open-source, innovative startups, and impactful tech projects**
+🔭 Currently building <b>modern full-stack web applications and scalable backend systems</b>  
 
-🧠 Currently learning **system design, performance optimization, and scalable architectures**
+🤝 Excited to collaborate on <b>open-source, innovative startups, and impactful tech projects</b>  
 
-💬 Always happy to discuss **React, Node.js, APIs, databases, and clean code practices**
+🧠 Currently learning <b>system design, performance optimization, and scalable architectures</b>  
 
-⚡ Fun fact: I love **transforming ideas into real-world products using technology**
+💬 Ask me about <b>React, Node.js, APIs, databases, and modern web development</b>  
+
+⚡ Fun fact: I love <b>transforming ideas into real-world products using technology</b>  
+
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pratik-Bavche&style=for-the-badge&color=blueviolet" />
