@@ -22,11 +22,11 @@
 # 👋 About Me
 
 <p align="center">
-🔭 <b>Building modern full-stack web applications and scalable backend systems</b>
+🤝 <b>Open to collaborating on innovative startups and open-source projects</b>
 </p>
 
 <p align="center">
-🤝 <b>Open to collaborating on innovative startups and open-source projects</b>
+🔭 <b>Building modern full-stack web applications and scalable backend systems</b>
 </p>
 
 <p align="center">
@@ -42,8 +42,11 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratik-Bavche&style=for-the-badge&color=blueviolet" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=450&lines=Profile+Visitors+%F0%9F%91%80;Welcome+to+my+GitHub!" />
+
 </p>
+
 
 ---
 
