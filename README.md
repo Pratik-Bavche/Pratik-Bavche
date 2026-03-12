@@ -21,11 +21,15 @@
 
 # 👋 About Me
 
-🔭 I’m currently working on **Full-Stack Web Development & Applications**
-🤝 I’m looking to collaborate on **creative, impactful, and open-source projects**
-🌱 I’m currently learning **advanced backend development & system design**
-💬 Ask me about **React, Node.js, MongoDB, REST APIs, UI/UX**
-⚡ Fun fact: I love solving real-world problems using code
+🚀 Building **modern full-stack web applications and scalable backend systems**
+
+🤝 Excited to collaborate on **open-source, innovative startups, and impactful tech projects**
+
+🧠 Currently learning **system design, performance optimization, and scalable architectures**
+
+💬 Always happy to discuss **React, Node.js, APIs, databases, and clean code practices**
+
+⚡ Fun fact: I love **transforming ideas into real-world products using technology**
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pratik-Bavche&style=for-the-badge&color=blueviolet" />
