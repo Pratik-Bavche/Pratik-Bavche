@@ -36,7 +36,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pratik-Bavche&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pratik-Bavche&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
 </p>
 
 ---
@@ -99,15 +99,12 @@
 
 ---
 
-# ✨ What I’m Looking For
-
-* Open-source collaborations
-* Frontend & Full-Stack internships
-* Real-world problem-solving projects
-* Community-driven development
-
----
+# 💫 Thanks for Visiting My Profile
 
 <p align="center">
-🌟 <b>Thanks for visiting my profile!</b> 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+🚀;Happy+Coding!+💻" />
+
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&section=footer\&color=gradient)
