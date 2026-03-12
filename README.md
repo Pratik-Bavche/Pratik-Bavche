@@ -74,11 +74,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=tokyonight" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Pratik-Bavche&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Pratik-Bavche&theme=tokyonight&hide_border=true&border_radius=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Bavche&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=tokyonight" />
 </p>
 
 ## 📈 Contributions
