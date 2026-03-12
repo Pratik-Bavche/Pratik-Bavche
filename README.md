@@ -22,17 +22,23 @@
 # 👋 About Me
 
 <p align="center">
+🔭 <b>Building modern full-stack web applications and scalable backend systems</b>
+</p>
 
-🔭 Currently building <b>modern full-stack web applications and scalable backend systems</b>  
+<p align="center">
+🤝 <b>Open to collaborating on innovative startups and open-source projects</b>
+</p>
 
-🤝 Excited to collaborate on <b>open-source, innovative startups, and impactful tech projects</b>  
+<p align="center">
+🧠 <b>Currently exploring system design, performance optimization, and scalable architectures</b>
+</p>
 
-🧠 Currently learning <b>system design, performance optimization, and scalable architectures</b>  
+<p align="center">
+💬 <b>Ask me about React, Node.js, APIs, databases, and modern web development</b>
+</p>
 
-💬 Ask me about <b>React, Node.js, APIs, databases, and modern web development</b>  
-
-⚡ Fun fact: I love <b>transforming ideas into real-world products using technology</b>  
-
+<p align="center">
+⚡ <b>I love transforming ideas into real-world products using technology</b>
 </p>
 
 <p align="center">
