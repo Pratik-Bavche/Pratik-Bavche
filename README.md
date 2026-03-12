@@ -65,13 +65,6 @@
   <img width="90%" src="https://streak-stats.demolab.com?user=Pratik-Bavche&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Pratik-Bavche&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=tokyonight" />
-</p>
 
 ---
 
