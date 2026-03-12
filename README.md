@@ -33,14 +33,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pratik-Bavche&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -98,8 +90,6 @@
 </p>
 
 ---
-
-# 💫 Thanks for Visiting My Profile
 
 <p align="center">
 
