@@ -59,13 +59,28 @@
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/pratik-bavche-b6b696325)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white\&style=for-the-badge)](https://instagram.com/bavche_pratik)
-[![X](https://img.shields.io/badge/X-black?logo=X\&logoColor=white\&style=for-the-badge)](https://x.com/Pratik_Bavche)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white\&style=for-the-badge)](https://youtube.com/@pratikbavchepatil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:pratikbavche2005@gmail.com)
+<a href="https://linkedin.com/in/pratik-bavche-b6b696325">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://instagram.com/bavche_pratik">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://x.com/Pratik_Bavche">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/>
+</a>
+
+<a href="https://youtube.com/@pratikbavchepatil">
+<img src="https://skillicons.dev/icons?i=youtube" height="45"/>
+</a>
+
+<a href="mailto:pratikbavche2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 </p>
+
 
 ---
 
