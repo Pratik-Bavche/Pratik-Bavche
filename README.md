@@ -76,14 +76,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+🚀;Happy+Coding!+💻" />
