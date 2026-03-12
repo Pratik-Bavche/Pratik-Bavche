@@ -71,8 +71,16 @@
 
 ---
 
-## 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=Pratik-Bavche&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Pratik-Bavche&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Bavche&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratik-Bavche&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-Bavche&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratik-Bavche&theme=tokyonight" />
+</p>
 
 ## 📈 Contributions
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Bavche&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true)
