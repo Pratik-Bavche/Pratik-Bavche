@@ -69,11 +69,6 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/Pratik_Bavche">
-<img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" height="48"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:pratikbavche2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
